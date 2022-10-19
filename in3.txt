@@ -1,0 +1,30 @@
+Object a
+{
+texture (1 2) (3 4)
+vertexes (1.5 3.4 7 0.1) (22 87 2.3 17) (100 68 10.67)
+faces 3 2 1; 10 3 114; 43 44 45; 24 5 1;
+img mickey.png
+Object b
+{
+vertexes (0.3 0.2 0.5 1.0) (0.5 0.7 0.8) (0.1 0.2 0.9 1.0)
+faces 3 2 1;
+Object c
+{
+vertexes (22 31 67) (3 12 20 0.1)
+texture (7 8) (77 88)
+img polkadots.png
+faces 1 2 3; 2 3 4; 3 4 1;
+}Object d
+{
+vertexes (0.15 0.35 0.24 1.0)
+faces 2 3 1; 10 11 12;
+}
+}
+Object e
+{
+vertexes (90 57 71 95) (81 67 59 74) (26 6 83 9) (77 1 76 90) (55 94 58 84) (79 40 91 15) (10 81 28 55)
+faces 3 0 4; 1 6 5; 3 2 5; 2 4 4; 4 5 7;
+texture (0.6 0.6) (0.1 0.5) (0.1 0.7) (0.4 0.1) (0.6 0.8) (0.6 0.4)
+img slenderman.png
+}
+}
